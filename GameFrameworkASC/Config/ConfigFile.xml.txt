@@ -1,0 +1,4 @@
+<ConfigFile>
+	<XWidth>10</XWidth>
+	<YWidth>11</YWidth>
+</ConfigFile>
