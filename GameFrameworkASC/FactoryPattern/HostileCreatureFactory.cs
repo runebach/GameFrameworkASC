@@ -23,7 +23,7 @@ namespace GameFrameworkASC.FactoryPattern
             Random random = new Random();
             
             string[] names = ["Goblin", "Dragon", "Orc", "Bandit", "Gargoyle"];
-            Creature creature = new Creature(names[random.Next(names.Length)], 500, new Vector2(0,0), 1, false, 1);
+            Creature creature = new Creature(names[random.Next(names.Length)], 500, new Vector2(0,0), 1, false, id++);
             return creature;
 
             
