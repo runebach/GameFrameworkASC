@@ -119,6 +119,7 @@ foreach(IGameObject equ in equipment)
 Console.WriteLine();
 
 
+// TJEK GAMEFRAMEWORKCONSOLE BIN FOR TEXTTRACE
 
 
 
